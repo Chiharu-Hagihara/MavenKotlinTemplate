@@ -1,0 +1,7 @@
+name: MavenKotlinTemplate
+version: ${project.version}
+main: mc.mec.mavenkotlintemplate.MavenKotlinTemplate
+api-version: 1.13
+author: Mr_El_Capitan
+commands:
+  maven:
