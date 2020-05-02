@@ -11,6 +11,7 @@
 
     <name>MavenKotlinTemplate</name>
 
+    <!-- ここから一番下までをコピペしてください。 -->
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
